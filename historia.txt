@@ -1,0 +1,5 @@
+este es el comienzo de un gran proyecto
+
+estoy aprendiendo git luego de aprender js
+
+estoy muy entusiasmado!!!
